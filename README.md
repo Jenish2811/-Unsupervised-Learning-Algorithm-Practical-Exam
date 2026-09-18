@@ -1,4 +1,4 @@
-# Mall Customer Segmentation
+<img width="590" height="1280" alt="image" src="https://github.com/user-attachments/assets/2192a0c8-4b0f-4873-9857-385677879d8b" /># Mall Customer Segmentation
 
 An unsupervised-learning project for segmenting mall customers based on demographic and spending behavior. The project uses clustering to identify actionable shopper groups and includes a trained segmentation model and feature scaler for inference.
 
@@ -15,11 +15,11 @@ Mall management requires granular audience segmentation to optimize brand zoning
 | `mall_scaler.pkl` | Serialized feature scaler used by the segmentation pipeline |
 | `mall_segmentation_model.pkl` | Serialized trained customer-segmentation model |
 | `summary_report.md` | Summary of the problem, feature-space strategy, model comparison, segments, and next steps |
-| `Screenshot.png`| 
-| `Image.png`|
-| `Img.png`|
-| `Preview.png`|
-| `Photo.png`|
+| `Screenshot.png`| Project Screenshot Showing The K-Means Optimization: Elbow Curve & Silhouette Score Analysis. |
+| `Image.png`| This Image Represent the AnnulIncome vs Age Spending Score.|
+| `Img.png`| KMeans Clustering Visualization of AnuualIncome, Age and Pca Multi-d Cluster.
+| `Preview.png`| Preview of the Average Metric Comparison by the gender.
+| `Photo.png`| Project Visualization Showing the Full Hierarchical and Truncated Dendrogram.
 
 
 ## 📸 Preview
