@@ -1,3 +1,4 @@
+## Mall Customer Segmentation
 An unsupervised-learning project for segmenting mall customers based on demographic and spending behavior. The project uses clustering to identify actionable shopper groups and includes a trained segmentation model and feature scaler for inference.
 
 ## Problem Statement
