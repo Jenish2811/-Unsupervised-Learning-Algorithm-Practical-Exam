@@ -11,7 +11,7 @@ Mall management requires granular audience segmentation to optimize brand zoning
 | File | Description |
 |---|---|
 | `Mall_Customers2.csv` | Customer dataset used for segmentation |
-| `Unsupervised-Learning-Exam1.ipynb` | Analysis, exploratory work, clustering experiments, and model development |
+| `Unsupervised-Learning-Exam.ipynb` | Analysis, exploratory work, clustering experiments, and model development |
 | `mall_scaler.pkl` | Serialized feature scaler used by the segmentation pipeline |
 | `mall_segmentation_model.pkl` | Serialized trained customer-segmentation model |
 | `summary_report.md` | Summary of the problem, feature-space strategy, model comparison, segments, and next steps |
