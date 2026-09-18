@@ -15,23 +15,15 @@ Mall management requires granular audience segmentation to optimize brand zoning
 | `mall_scaler.pkl` | Serialized feature scaler used by the segmentation pipeline |
 | `mall_segmentation_model.pkl` | Serialized trained customer-segmentation model |
 | `summary_report.md` | Summary of the problem, feature-space strategy, model comparison, segments, and next steps |
-| `Screenshot.png`|
+| `Screenshot.png`| 
 | `Image.png`|
 | `Img.png`|
 | `Preview.png`|
 | `Photo.png`|
 
-your-project/
-├── README.md
-└── images/
-    └── screenshot.png
-    └── Image.png
-    └── Img.png
-    └── Preview.png
-    └── Photo.png
 
 ## 📸 Preview
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 ![Image](Image.png)
 ![Img](Img.png)
 ![Preview](Preview.png)
